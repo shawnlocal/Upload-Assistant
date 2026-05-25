@@ -37,7 +37,7 @@ class STC(UNIT3D):
             'TGALAXY', 'TGx', 'tokar86a', 'TORRENTGALAXY', 'ToVaR', 'TSP', 'TSPxL', 'UnKn0wn', 'ViSION', 'VN_Foxcore', 'VXT', 'WAF', 
             'WKS', 'x0r', 'YIFY', 'YTS', 'YTS.MX', 'ZR',
         ]
-        self.approved_image_hosts = ['imgbox', 'imgbb', 'onlyimage', 'onlyimage', 'ptscreens']
+        self.approved_image_hosts = ['imgbox', 'imgbb', 'onlyimage', 'ptpimg', 'ptscreens']
         pass
 
     async def get_type_id(
